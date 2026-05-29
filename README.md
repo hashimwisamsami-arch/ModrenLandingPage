@@ -62,7 +62,7 @@
 ---
 
 ## 📷 معاينة المشروع
-
+on Netlify:https://6a199a0ad7156e8aee972539--helpful-zuccutto-58c8c7.netlify.app/
 ---
 
 ✨ تم تطوير هذا المشروع بهدف التعلم والممارسة.
